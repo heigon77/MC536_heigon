@@ -3,5 +3,5 @@
 Link para o notebook onde acesso duas API's
 
 # Tarefa 2
-![GitHub Logo](/imagens/Engenharia Reversa.png)
+![GitHub Logo](/Imagens/Engenharia_Reversa.png)
 Format: ![Alt Text](url)
